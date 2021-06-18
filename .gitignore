@@ -1,7 +1,10 @@
 build
 # testing
 /coverage
+
+# dependencies 
 /node_modules
+
 # production
 /build
 
